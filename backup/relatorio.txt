@@ -1,0 +1,80 @@
+POS               precision    recall  f1-score   support
+
+           0       0.93      0.96      0.95      3600
+           1       0.96      0.93      0.94      3600
+
+    accuracy                           0.94      7200
+   macro avg       0.95      0.95      0.94      7200
+weighted avg       0.95      0.94      0.94      7200
+BoW               precision    recall  f1-score   support
+
+           0       0.61      0.76      0.68      3600
+           1       0.68      0.51      0.58      3600
+
+    accuracy                           0.64      7200
+   macro avg       0.65      0.64      0.63      7200
+weighted avg       0.65      0.64      0.63      7200
+POS + BoW               precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      3600
+           1       0.96      0.96      0.96      3600
+
+    accuracy                           0.96      7200
+   macro avg       0.96      0.96      0.96      7200
+weighted avg       0.96      0.96      0.96      7200
+PAU               precision    recall  f1-score   support
+
+           0       0.68      0.66      0.67      3600
+           1       0.67      0.69      0.68      3600
+
+    accuracy                           0.68      7200
+   macro avg       0.68      0.68      0.68      7200
+weighted avg       0.68      0.68      0.68      7200
+Emo               precision    recall  f1-score   support
+
+           0       0.51      0.55      0.53      3600
+           1       0.51      0.48      0.50      3600
+
+    accuracy                           0.51      7200
+   macro avg       0.51      0.51      0.51      7200
+weighted avg       0.51      0.51      0.51      7200
+Unc               precision    recall  f1-score   support
+
+           0       0.85      0.92      0.88      3600
+           1       0.91      0.84      0.88      3600
+
+    accuracy                           0.88      7200
+   macro avg       0.88      0.88      0.88      7200
+weighted avg       0.88      0.88      0.88      7200
+NIM               precision    recall  f1-score   support
+
+           0       0.59      0.88      0.71      3600
+           1       0.77      0.40      0.53      3600
+
+    accuracy                           0.64      7200
+   macro avg       0.68      0.64      0.62      7200
+weighted avg       0.68      0.64      0.62      7200
+PEUN               precision    recall  f1-score   support
+
+           0       0.86      0.91      0.88      3600
+           1       0.91      0.85      0.88      3600
+
+    accuracy                           0.88      7200
+   macro avg       0.88      0.88      0.88      7200
+weighted avg       0.88      0.88      0.88      7200
+BoW + Emo               precision    recall  f1-score   support
+
+           0       0.61      0.76      0.68      3600
+           1       0.68      0.51      0.58      3600
+
+    accuracy                           0.63      7200
+   macro avg       0.64      0.63      0.63      7200
+weighted avg       0.64      0.63      0.63      7200
+Todas               precision    recall  f1-score   support
+
+           0       0.96      0.95      0.96      3600
+           1       0.95      0.96      0.96      3600
+
+    accuracy                           0.96      7200
+   macro avg       0.96      0.96      0.96      7200
+weighted avg       0.96      0.96      0.96      7200
